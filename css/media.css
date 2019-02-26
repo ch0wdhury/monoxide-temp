@@ -5,7 +5,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
-		height: 100%;
+		min-height: 100%;
 	}
 	header {
 		background-color: #000;
@@ -60,7 +60,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
-		height: 100%;
+		min-height: 100%;
 	}
 	header {
 		background-color: #000;
@@ -110,7 +110,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
-		height: 100%;
+		min-height: 100%;
 	}
 	.navbar-brand img {
 		width: 9%;
@@ -149,7 +149,7 @@
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-position: center center;
-		height: 100%;
+		min-height: 100%;
 	}
 	.main_header_text h1 {
 		margin-top: 90px;
