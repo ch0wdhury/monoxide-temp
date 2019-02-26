@@ -45,7 +45,7 @@
 		font-size: 12px;
 	}
 	.footer_icons {
-		margin-bottom: 60px;
+		padding-bottom: 10px;
 	}
 	.footer_icons ul li a {
 		font-size: 18px;
@@ -74,12 +74,12 @@
 		padding-top: 0;
 	}
 	.main_header_text h1 {
-		margin-top: 80px;
+		margin-top: 100px;
 		font-size: 20px;
 	}
 	.second_text h4 {
 		font-size: 14px;
-		margin-bottom: 80px;
+		margin-bottom: 100px;
 	}
 	.third_text p {
 		font-size: 14px;
@@ -90,7 +90,7 @@
 		padding-right: 0;
 		border-left: 3px solid #30314A;
 		padding-left: 10px;
-		margin-bottom: 60px;
+		margin-bottom: 80px;
 		font-size: 14px;
 	}
 	.footer_text p {
@@ -100,7 +100,7 @@
 		font-size: 14px;
 	}
 	.footer_icons {
-		margin-bottom: 60px;
+		padding-bottom: 20px;
 	}
 }
 /* Medium devices (tablets, 768px and up) */
@@ -138,7 +138,7 @@
 		font-size: 16px;
 	}
 	.footer_icons {
-		margin-bottom: 50px;
+		padding-bottom: 30px;
 	}
 }
 
@@ -169,7 +169,7 @@
 		font-size: 16px;
 	}
 	.footer_icons {
-		margin-bottom: 20px;
+		padding-bottom: 20px;
 	}
 }
 
