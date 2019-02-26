@@ -124,7 +124,7 @@
 	}
 	.second_text h4 {
 		font-size: 16px;
-		margin-bottom: 50px;
+		margin-bottom: 100px;
 	}
 	.third_text p {
 		font-size: 16px;
@@ -135,6 +135,7 @@
 		padding-right: 0;
 		border-left: 3px solid #30314A;
 		padding-left: 10px;
+		margin-bottom: 50px;
 		font-size: 16px;
 	}
 	.footer_icons {
